@@ -20,8 +20,8 @@ In C++, there are three access specifiers that are: <br>
 
 (A) <br> 
 ```
-// NAME - SHLOKA PATEL 
-// PRN - 23070123120 
+// NAME - Pranjal Panwar 
+// PRN - 23070123164
 // EXPERIMENT - 11(A) 
 
 # include<iostream>
@@ -43,8 +43,8 @@ int main()
 
 (B) <br> 
 ```
-// NAME - SHLOKA PATEL 
-// PRN - 23070123120 
+// NAME - Pranjal Panwar 
+// PRN - 23070123164 
 // EXPERIMENT - 11(B) 
 
 # include<iostream>
@@ -70,8 +70,8 @@ int main()
 
 (C) <br> 
 ```
-// NAME - SHLOKA PATEL 
-// PRN - 23070123120 
+// NAME - Pranjal Panwar 
+// PRN - 23070123164 
 // EXPERIMENT - 11(C) 
 
 # include<iostream>
@@ -99,8 +99,8 @@ int main()
 
 (D) <br> 
 ```
-// NAME - SHLOKA PATEL 
-// PRN - 23070123120  
+// NAME - Pranjal Panwar
+// PRN - 23070123164 
 // EXPERIMENT -- 11(D) 
 # include<iostream>
 using namespace std;
@@ -135,8 +135,8 @@ int main()
 
 (E) <br> 
 ```
-// NAME - SHLOKA PATEL 
-// PRN - 23070123120 
+// NAME - Pranjal Panwar
+// PRN - 23070123164  
 // EXPERIMENT - 11(E)
 
 # include<iostream>
